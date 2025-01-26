@@ -1,4 +1,4 @@
-![]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://media.licdn.com/dms/image/v2/D5616AQF-d0YqGT6-RA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737894682864?e=1743638400&v=beta&t=YEuc8Txe5hBBGZYEQ2aHM59OGXbSQy6md1NAh1dtTMY))
+![logo](https://github.com/Sushankkarki1/Sushankkarki1/blob/main/Sushank%20karki%20Banner.png)
 
 # 💫 About Me:
 Hi I am Sushank karki. I am a dedicated software developer, known for delivering efficient, high-quality solutions. I thrive in fast-paced environments, excel at problem-solving, and stay committed to continuous learning and innovation to create impactful applications.
